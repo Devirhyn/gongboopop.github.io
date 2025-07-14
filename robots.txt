@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://devirhyn.github.io/gongboopop.github.io/sitemap.html
