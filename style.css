@@ -8,6 +8,15 @@ body {
   color: #333;
 }
 
+.hero-img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  margin-bottom: 1.5rem;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
 header {
   background-color: #ffe3f1;
   color: #333;
